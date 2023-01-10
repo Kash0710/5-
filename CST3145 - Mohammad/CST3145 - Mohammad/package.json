@@ -1,0 +1,12 @@
+{
+    "name": "cst3145-group-work",
+    "author": "Mohammad",
+    "private": true,
+    "scripts": {
+        "start": "app.js"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
